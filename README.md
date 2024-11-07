@@ -6,5 +6,6 @@ $$f_{1}$$ is the movement distance of the finger. The distance traveled is c1 an
 
 $$f_{2}$$ is the number of characters at which typing occurs.
 
+![image](https://github.com/user-attachments/assets/dc6f4d0f-db05-48d7-8215-3e0467d3ea35)
 
 While the fitness function value (finger movement distance + number of typing) of the existing Cheonjiin keyboard was 138,007, the suitability function value of the newly created Cheonjiin keyboard using a genetic algorithm was 125,713, showing a performance improvement of about 10%.
